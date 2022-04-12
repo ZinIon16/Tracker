@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZIN ION</string>
+    <string name="title_activity_maps">Tracker</string>
+    <string name="latitude">Latitude</string>
+    <string name="name">Name</string>
+    <string name="longitude">Longitude</string>
+    <string name="update">Update</string>
+</resources>

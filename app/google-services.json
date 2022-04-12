@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "953753689538",
+    "firebase_url": "https://savvy-courage-319617-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "savvy-courage-319617",
+    "storage_bucket": "savvy-courage-319617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953753689538:android:e649aab281c955ae90ca5b",
+        "android_client_info": {
+          "package_name": "com.example.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953753689538-o84vdt1plc8fkc4j64ej6o9arfcdgf8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tracker",
+            "certificate_hash": "77027f5dc1b09c07b6b92adb976c3351b7505a4d"
+          }
+        },
+        {
+          "client_id": "953753689538-lostq2frsvd2a591f0n21m9mlmasd0j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiNzo1JVhOI40nLQVYH1G7dx5pirx7TPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953753689538-lostq2frsvd2a591f0n21m9mlmasd0j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953753689538:android:abaf5ca78a0c415090ca5b",
+        "android_client_info": {
+          "package_name": "com.example.zinion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953753689538-64re4vsu78nl4rliusvr8qnv0gmtch4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zinion",
+            "certificate_hash": "77027f5dc1b09c07b6b92adb976c3351b7505a4d"
+          }
+        },
+        {
+          "client_id": "953753689538-lostq2frsvd2a591f0n21m9mlmasd0j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiNzo1JVhOI40nLQVYH1G7dx5pirx7TPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953753689538-lostq2frsvd2a591f0n21m9mlmasd0j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
